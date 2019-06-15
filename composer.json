@@ -23,7 +23,7 @@
     "php": ">=5.3.9",
     "hafriedlander/phockito": "1.0.*",
     "apache/log4php": "2.3.*",
-    "symfony/serializer": "3.4.x-dev",
+    "symfony/serializer": "4.1.x-dev",
     "symfony/property-access": "2.7.*"
   },
   "autoload": {
